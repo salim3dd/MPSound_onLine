@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MP3Sound</string>
+
+
+    <string-array name="Titles">
+        <item>مشاري العفاسي</item>
+        <item>مشاري العرادة</item>
+        <item>حمود الخضر</item>
+    </string-array>
+
+    <string-array name="Photo">
+        <item>http://www.sm3na.com/images/singerspics/id/1259.gif</item>
+        <item>http://static.islamway.net/uploads/scholars/2058.jpg</item>
+        <item>http://static.islamway.net/uploads/scholars/Humood.jpg</item>
+    </string-array>
+
+    <string-array name="URLSound">
+        <item>http://ms13.sm3na.com/1259/Sm3na_com_41984.mp3</item>
+        <item>http://media.islamway.net/several/2058/jetak.mp3</item>
+        <item>http://media.islamway.net/several/277/02_Shms.mp3</item>
+    </string-array>
+
+</resources>
